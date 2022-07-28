@@ -1,5 +1,5 @@
-# FederatedAverage
-A simple Python implementation of FedAVG, using tensorflow and keras, based on McMahan <i>et al.<\i> paper [1].
+# Federated Averaging
+A simple Python implementation of FedAVG, using tensorflow and keras, based on McMahan <i>et al.</i> paper [1].
 
 The function receives 2 parameters: a list of clients' models and a list with the sample size of each client dataset.
 
